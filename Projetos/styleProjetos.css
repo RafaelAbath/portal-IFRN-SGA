@@ -147,4 +147,20 @@ div.list-item {
   flex-direction: column;
   justify-content: flex-end;
 }
+
 /* estilização dos cards */
+
+.card{
+  max-width: 3000em;
+  flex-direction: row;
+  border-radius: 1%;
+  border: #000000;
+  display: flex;
+}
+.card img{
+  max-width: 100%;
+}
+
+#projeto-area{
+  width: 50%;
+}
